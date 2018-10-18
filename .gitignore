@@ -5,6 +5,9 @@ yarn.lock
 # dependencies
 /node_modules
 
+#dotenv
+/.env
+
 # testing
 /coverage
 
